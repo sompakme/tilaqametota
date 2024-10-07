@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tilaqametota.pages.dev/sitemap.xml
